@@ -11,5 +11,5 @@ while True:
     elif guess >= r:
 	    print("猜錯啦!答案比你猜的數字再小一點")
     elif guess <= r:
-        print("猜錯啦!答案比你猜的數字再大一點")
+            print("猜錯啦!答案比你猜的數字再大一點")
     pass
